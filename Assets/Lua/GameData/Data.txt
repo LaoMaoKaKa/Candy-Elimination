@@ -1,0 +1,1 @@
+{"LastLgDayTime":"737122.15:55:11.5072820","hpTime":70,"NowLgDayTime":"737122.15:54:51.9438800","hp":8,"XXNum":[3,3,3,0],"Jb":964,"DqPass":1,"Volume":0.5,"CustomsPassName":"Gk4"}
