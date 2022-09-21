@@ -8,7 +8,7 @@ tolua+业务逻辑
 
 最新编译版本：Unity 2019.4.20f1c1 (64-bit)
 
-效果展示入下：
+效果展示如下：
 
 <div class="img-content">
   
